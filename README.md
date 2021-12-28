@@ -22,5 +22,15 @@ I am Yasar, a computer geek; working as a Lead Software Engineer at [Epam System
 - Java 
 - C
 
+<details>
+    <summary>
+        More stuff about me
+    </summary>
+
 ### Profile Visits: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yasarshaikh.yasarshaikh&left_color=green&right_color=red)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasarshaikh&show_icons=true&theme=radical)
+
+
+</details>
