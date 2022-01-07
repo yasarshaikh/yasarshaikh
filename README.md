@@ -20,11 +20,11 @@ I am Yasar, a computer geek; working as a Lead Software Engineer at [Epam System
 - K-12(Kindergarten to 12th grade)
 
 ### Known Languages(Computer) - 
-- Salesforce Apex
-- Javascript
-- Python
-- Java 
-- C
+- Salesforce Apex - :star: :star: :star: :star: :star:
+- Javascript - :star: :star: :star:
+- Python - :star:
+- Java - :star:
+- C - :star:
 
 <details>
     <summary>
