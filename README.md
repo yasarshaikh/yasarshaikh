@@ -8,7 +8,7 @@ I am Yasar, a computer geek; working as a Lead Software Engineer at [Epam System
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yasarshaikh.yasarshaikh&left_color=green&right_color=red)
 
-### Salesforce Extertise 
+### Salesforce Expertise 
 - Integration
 - Deployments
 - Customization on Salesforce Platform
