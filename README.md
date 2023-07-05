@@ -14,7 +14,7 @@ I am Yasar, a computer geek; working as a Lead Software Engineer at [Epam System
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yasar%20Shaikh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasar-shaikh/) [![Mail Badge](https://img.shields.io/badge/-Yasar%20Shaikh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yasar_shaikh@mail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yasar%20Shaikh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasar-shaikh/) 
 
 [![WeAreCommunity](https://img.shields.io/badge/We%20Are%20Community-Yasar%20Shaikh-orange)](https://wearecommunity.io/users/yasar-shaikh)
 
