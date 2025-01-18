@@ -1,6 +1,6 @@
 # Hi, This is Yasar :wave: 
 
-I am Yasar, a computer geek; working as a Lead Software Engineer at [Epam Systems](https://www.epam.com/). I have been working on Salesforce platform for 7+ years. I have worked on various projects with diverse domains. I find solving problems and creating solutions to be the most exciting & rewarding.
+I am Yasar, a computer geek; working as a Software Architect at [Epam Systems](https://www.epam.com/). I have been working on Salesforce platform around a decade. I have worked on various projects with diverse domains. I find solving problems and creating solutions to be the most exciting & rewarding.
 
 
 :pen: My Articles
